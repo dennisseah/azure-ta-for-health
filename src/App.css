@@ -1,0 +1,26 @@
+#root, .App {
+    height: 100%;
+}
+
+body {
+    padding: 4px;
+}
+
+.site-page-header {
+    border: 1px solid rgb(235, 237, 240);
+}
+
+.health-info {
+    color: darkgreen;
+    text-decoration: underline wavy darkgreen;
+}
+
+.pop-wide {
+    width: 400px
+}
+
+.result-view {
+    border: 1px solid #ccc;
+    height: calc(100% - 200px);
+    margin-top: 20px;
+}
